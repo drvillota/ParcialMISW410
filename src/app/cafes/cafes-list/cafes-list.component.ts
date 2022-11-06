@@ -38,11 +38,11 @@ export class CafesListComponent implements OnInit {
       }
     }
 
-    /*console.log("Tipos Map");
+    console.log("Tipos Map");
     for (let entry of this.tipos.entries()) {
       console.log(entry[0], entry[1]);
     }
-    console.log("--------");*/
+    console.log("--------");
   }
 
   ngOnInit() {
