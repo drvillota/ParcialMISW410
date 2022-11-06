@@ -2,3 +2,16 @@ h1 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-size: 180%;
 }
+
+table {
+  margin: 10px;
+  width: 70%;
+}
+
+thead {
+  background-color: rgb(35, 35, 73);
+}
+
+thead>tr>th {
+  color: white;
+}
